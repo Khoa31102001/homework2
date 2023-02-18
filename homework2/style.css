@@ -1,0 +1,23 @@
+       /* Css comment */
+       
+       * {
+           margin: 0;
+           padding: 0;
+           box-sizing: border-box;
+       }
+       /* Khai báo css cho id  */
+       
+       #header {
+           background-color: black;
+       }
+       /* Khai báo css cho class  */
+       
+       .nav {
+           display: flex;
+           justify-content: space-around;
+       }
+       
+       .nav li a {
+           text-decoration: none;
+           color: #fff;
+       }
